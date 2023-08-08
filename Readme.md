@@ -1,5 +1,7 @@
 ```
 unstable => (limit)
+
+i am developing it with proxies regated from LAN, maybe it will be updated here or branch or paid version
 ```
 
 # Step to step
@@ -13,7 +15,7 @@ npm i
 
 ```
 ├── data-language        <= where the txt file will be created
-│   └── 17-23-00_lang-JAPANESE.txt <= txtssssssssssssssss example
+│   └── 17-23-00_lang-JAPANESE.txt <= txt example
 ├── index.js
 ├── package.json
 ├── package-lock.json
